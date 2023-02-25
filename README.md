@@ -1,2 +1,2 @@
 # calculator-repo
-simple calculator
+simple calculator practice
